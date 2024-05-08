@@ -15,8 +15,8 @@
      "context": [""]
     },
     {"tag": "query",
-     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
-     "responses": ["My pleasure", "You're Welcome"],
+     "patterns": ["What is IntentFlow-bot?"],
+     "responses": ["IntentFlow-bot is a simple chatbot using TensorFlow"],
      "context": [""]
     } 
 ]}
