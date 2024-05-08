@@ -1,5 +1,5 @@
-# IntentFlow-Bot
-IntentFlow-Bot is a simple chatbot implementation using TensorFlow, a machine-learning framework developed by Google. This chatbot is trained using a neural network to classify user inputs into predefined intents and provide appropriate responses based on the detected intent.
+# ComBot
+ComBot is a simple chatbot implementation using TensorFlow, a machine-learning framework developed by Google. This chatbot is trained using a neural network to classify user inputs into predefined intents and provide appropriate responses based on the detected intent.
 
 ## Features
 - Utilizes TensorFlow for training a neural network.
